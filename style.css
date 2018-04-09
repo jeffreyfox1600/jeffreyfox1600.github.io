@@ -3,8 +3,11 @@ h1 {
 	text-align: center
 }
 h2{
-	color: darkviolet;
+	color: red;
 }
-p.em{
+h3{
+	color: red;
+}
+.em{
 	color: grey;
 }
